@@ -1,0 +1,30 @@
+.guess {
+  height: 150px;
+  width: 240px;
+  margin-bottom: 20px;
+}
+
+.answers {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.feedback {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.options {
+  background-color: rgb(226, 220, 220);
+  color: black;
+  border: solid black 1px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 70px;
+  height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}
